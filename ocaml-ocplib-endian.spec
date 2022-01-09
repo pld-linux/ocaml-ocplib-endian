@@ -54,7 +54,7 @@ używających biblioteki ocplib-endian.
 
 %package devel
 Summary:	Optimised OCaml functions to read and write int16/32/64 from strings and bigarrays - development part
-Summary(pl.UTF-8):	Zoptymalizowane funkcje OCamla do odczytu i zapisu typów int16/32/64 z typów string i bigarray - cześć programistyczna
+Summary(pl.UTF-8):	Zoptymalizowane funkcje OCamla do odczytu i zapisu typów int16/32/64 z typów string i bigarray - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
